@@ -1,0 +1,13 @@
+Print all components in orientation of STL file.
+
+----------------------------
+First print:
+SST_Cover_Plate_Plain
+SST_Enclosure_Top
+SST_Enclosure_Bottom
+
+Infill: 20%
+Layer Height: 0.2mm
+Support Material: No
+Raft: No
+----------------------------
