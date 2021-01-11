@@ -37,7 +37,6 @@ Reference the [assembly guide](/Documentation/SST_Assembly_Guide_v0.1.pdf) for t
 | Design Specifications| 0.1     | [SST_Design_Specifications](/Documentation/SST_Design_Rationale_v0.1.pdf) |
 | Design Rationale     | 0.1     | [SST_Design_Rationale](/Documentation/SST_Design_Rationale_v0.1.pdf) |
 | Bill of Materials    | 0.1     | [SST_BOM](/Documentation/SST_BOM_v0.1.xlsx)                          |
-<!--- | 3D Printing Guide    | 0.1     | [SST_3D_Printing_Guide](/Documentation/SST_3D_Printing_Guide_v0.1.pdf)| --->
 | Assembly Guide       | 0.1     | [SST_Instructions](/Documentation/SST_Assembly_Guide_v0.1.pdf)       |
 | Maker Checklist      | 0.1     | [SST_Checklist](/Documentation/SST_Maker_Checklist_v0.1.pdf)         |
 | Quick Guide          | 0.1     | [SST_Quick_Guide](/Documentation/SST_Quick_Guide_v0.1.pdf)           |
