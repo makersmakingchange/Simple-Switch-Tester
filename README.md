@@ -16,7 +16,8 @@ The Simple Switch Tester is comprised of off-the-shelf electronics and 3D printe
 
 ### 1. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/SST_BOM_v0.1.xlsx) lists all of the parts and components required to build the Simple Switch Tester. The electronic components may be available locally, but will probably need to be ordered online.
+The [Bill of Materials](/Documentation/SST_BOM_v0.1.xlsx) lists all of the parts and components required to build the Simple Switch Tester. The electronic components may be available locally, but will probably need to be ordered online. For convenience, you can use this Digikey cart: https://www.digikey.ca/short/47cdmb
+
 
 
 ### 2. Print the 3D Printable components
