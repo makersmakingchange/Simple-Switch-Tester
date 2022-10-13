@@ -28,7 +28,7 @@ All of the files and individual print files can be in the [/Build_Files/3D_Print
 
 ### 3. Assemble the Switch Tester
 
-Reference the [assembly guide](/Documentation/SST_Assembly_Guide_v0.1.pdf) for the tools and steps required to build each portion.
+Reference the [assembly guide](/Documentation/SST_Assembly_Guide_v0.1.pdf) for the tools and steps required to build each portion. There is also a build video available at the following link: https://www.youtube.com/watch?v=CHm8Z5UD4Sw
 
 ## Files
 
