@@ -1,15 +1,13 @@
-# Simple-Switch-Tester
+# Simple Switch Tester
 The Simple Switch Tester is a cost effective, open source assistive technology for testing assistive switches. When an assistive switch is connected to the tester via the 3.5 mm jack and activated, a light on the tester will illuminate indicating that the switch is functioning correctly. The tester is powered by two AAA batteries. A test button on the side of the tester allows the batteries to be tested to confirm the tester is working correctly before testing a switch.
 
 The Simple Switch Tester is comprised of off-the-shelf electronics and 3D printed parts. The overall cost of materials is about $8 (plus $8 for component shipping).
 
 ![Simple Switch Tester](Photos/SST_500.jpg)
 
-<!--- 
+
 ## More info at
- - [Makers Making Change Forum Thread](TBD) 
- - [Makers Making Change Project Page](TBD)
- --->
+ - [Makers Making Change Library Listing](https://www.makersmakingchange.com/s/product/simple-switch-tester/01tJR0000006948YAA) 
 
 
 ## Getting Started
@@ -56,7 +54,7 @@ Everything needed or used to design, make, test, or prepare the Simple Switch Te
 
 Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Simple Switch Tester are published under a Creative Commons Attribution-ShareAlike 4.0 license <https://creativecommons.org/licenses/by-sa/4.0/> (CC BY-SA 4.0)
 
-
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 <img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
 
@@ -73,3 +71,4 @@ We are committed to creating a network of volunteer makers who support people wi
 ### Contact Us
 
 For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Project Page]( https://www.makersmakingchange.com/project), [MMC Forum](https://forum.makersmakingchange.com), or contact info@makersmakingchange.com
+<!-- ABOUT MMC END -->
